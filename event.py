@@ -1,5 +1,8 @@
+from datetime import datetime
+
+
 class Event:
-    def __init__(self, name, start_date, duration, location, owner, participants,):
+    def __init__(self, name, start_date, duration, location, owner, participants=tuple()):
         self.name = name
         self.start_date = start_date
         self.duration = duration
@@ -30,13 +33,14 @@ class Meeting(Event):
 
 
 
-e = Event('python', '28-02-2022', 60, 'better world', 'pawel', ['michal', 'marcin', 'renata'])
-w = Workshop('python', '28-02-2022', 60, 'better world', 'pawel', ['michal', 'marcin', 'renata'], 'online')
-m = Meeting('python', '28-02-2022', 60, 'better world', 'pawel', ['michal', 'marcin', 'renata'], 'arctovsky')
+e = Event('python', datetime.strptime('28-02-2022 17:15', '%d-%m-%Y %H:%M'), 60, 'better world', 'pawel',
+          ['michal', 'marcin', 'renata'])
+# w = Workshop('python', '28-02-2022', 60, 'better world', 'pawel', ['michal', 'marcin', 'renata'], 'online')
+# m = Meeting('python', '28-02-2022', 60, 'better world', 'pawel', ['michal', 'marcin', 'renata'], 'arctovsky')
 
 print(repr(e))
-print(repr(w))
-print(repr(m))
+# print(repr(w))
+# print(repr(m))
 
 
 
