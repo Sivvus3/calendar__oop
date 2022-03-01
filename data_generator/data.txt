@@ -1,0 +1,500 @@
+ola, 2024-07-15 19:52:00, 213, kielce, ola, ala, roman
+ola, 2022-05-05 04:50:00, 211, krakow, janusz, janusz, ola, roman, ola
+janusz, 2024-12-14 14:57:00, 86, warszawa, ola, ala
+janusz, 2023-04-24 13:48:00, 464, krakow, roman, ala, ala, roman, janusz
+janusz, 2024-12-13 18:16:00, 174, warszawa, roman, janusz, ola
+ala, 2024-09-11 06:55:00, 586, kielce, roman, ala, ala, roman, janusz
+janusz, 2023-12-06 05:48:00, 408, krakow, janusz, janusz, janusz
+ola, 2023-04-26 18:06:00, 295, warszawa, ola, ola, roman
+roman, 2024-09-04 01:52:00, 227, warszawa, ola, roman, janusz, roman
+ala, 2023-07-13 19:40:00, 116, kielce, roman, janusz, janusz, roman, roman
+janusz, 2024-06-27 11:04:00, 351, krakow, roman, roman
+ola, 2024-04-07 05:44:00, 286, krakow, ala, ola, roman, janusz, ala
+roman, 2024-09-10 21:11:00, 263, warszawa, janusz, ola, ala, janusz
+roman, 2023-11-01 23:38:00, 391, kielce, roman, ola, janusz, roman, ola
+ola, 2023-08-03 12:34:00, 506, krakow, janusz, ola, roman
+roman, 2022-04-23 08:28:00, 287, kielce, ala, roman
+janusz, 2022-09-21 14:10:00, 42, warszawa, ala, ala, ola
+roman, 2022-04-24 16:22:00, 240, warszawa, ala, ola, janusz, ola
+ola, 2022-07-14 15:48:00, 596, krakow, roman, ola, ala
+ala, 2022-09-25 13:46:00, 580, kielce, ala, janusz, roman, ala
+ola, 2024-06-18 18:39:00, 431, krakow, janusz, roman, janusz, ola
+janusz, 2024-11-01 08:33:00, 505, warszawa, janusz, janusz, ala
+ola, 2023-09-15 15:31:00, 237, kielce, ola, roman, ola
+roman, 2023-07-03 09:33:00, 347, warszawa, roman, ala
+roman, 2022-06-24 02:55:00, 297, kielce, ala, roman, roman, janusz
+janusz, 2024-11-03 06:07:00, 399, warszawa, ola, roman, ala
+roman, 2024-11-13 07:31:00, 149, kielce, roman, ala, ola, roman, ola
+janusz, 2023-09-06 15:51:00, 334, warszawa, roman, ala, ala
+ala, 2022-07-27 16:45:00, 292, kielce, roman, roman, ala, janusz
+roman, 2023-09-09 13:29:00, 68, kielce, ala, roman
+janusz, 2024-04-10 08:20:00, 565, krakow, janusz, roman, ala
+ala, 2022-11-20 11:34:00, 168, warszawa, ala, roman, janusz, roman, ola
+janusz, 2024-11-08 23:45:00, 56, warszawa, ala, roman, ola, ala, janusz
+roman, 2024-12-17 02:37:00, 587, kielce, roman, janusz, ala
+roman, 2023-11-12 23:19:00, 225, kielce, roman, roman
+ala, 2023-05-03 17:01:00, 521, warszawa, janusz, janusz, ola, roman, janusz
+ola, 2024-10-02 22:52:00, 366, krakow, ala, janusz, roman, ola, ola
+ola, 2022-06-02 10:58:00, 9, krakow, ola, ola
+janusz, 2023-12-09 19:51:00, 525, warszawa, janusz, ala, ala, roman
+roman, 2023-10-10 09:20:00, 116, krakow, roman, ala, roman, ola, roman
+ola, 2022-11-05 12:49:00, 158, krakow, ala, ola, ola, janusz, ala
+ala, 2023-11-01 15:45:00, 113, warszawa, ola, ala
+roman, 2024-10-17 10:12:00, 375, kielce, roman, roman, ola, ola
+roman, 2024-12-08 01:03:00, 201, kielce, roman, janusz, ola
+ala, 2023-12-03 16:09:00, 399, kielce, ala, roman, ala, roman
+ala, 2022-05-25 09:38:00, 498, kielce, janusz, ola, ala, roman, ala
+janusz, 2023-08-23 09:25:00, 466, krakow, ola, ala, ola, janusz
+ala, 2023-04-13 13:52:00, 407, krakow, janusz, roman, janusz
+ola, 2024-04-21 17:25:00, 315, warszawa, janusz, roman
+roman, 2023-05-05 07:43:00, 478, kielce, roman, janusz, ola
+roman, 2023-12-24 13:09:00, 405, warszawa, ola, janusz, roman, roman
+janusz, 2024-09-10 05:23:00, 569, warszawa, janusz, ala, roman, ala
+roman, 2022-07-08 11:15:00, 464, krakow, ola, roman
+roman, 2024-11-23 12:30:00, 244, warszawa, janusz, ola, ola, ola
+ola, 2023-06-27 07:20:00, 248, krakow, ola, janusz
+ola, 2023-12-26 00:52:00, 123, krakow, ala, ola, ala
+ala, 2022-10-12 07:40:00, 190, kielce, ala, ala, janusz, ola, ala
+ola, 2022-11-05 12:35:00, 212, warszawa, janusz, ala, roman, roman
+janusz, 2023-08-06 19:15:00, 325, warszawa, janusz, roman
+janusz, 2022-09-26 00:57:00, 34, krakow, janusz, ola, roman, ala
+ala, 2024-08-26 19:04:00, 299, kielce, ala, ala, roman
+roman, 2023-08-24 00:21:00, 39, krakow, janusz, janusz, janusz
+ola, 2022-05-17 15:09:00, 496, kielce, ala, ala, ola, janusz
+roman, 2022-11-07 16:04:00, 364, krakow, roman, ola, ola, ala
+ala, 2023-05-24 01:58:00, 151, kielce, janusz, ala, janusz, ola
+janusz, 2023-10-03 01:16:00, 206, krakow, ola, ola, ala, janusz
+roman, 2022-12-11 21:54:00, 132, warszawa, ala, janusz, ala
+roman, 2024-10-09 07:17:00, 292, krakow, janusz, ala, janusz, ala
+ola, 2023-10-19 22:00:00, 45, krakow, roman, ola, roman, ala, janusz
+ola, 2024-04-15 03:49:00, 184, warszawa, ola, ola, janusz, janusz
+roman, 2023-09-24 18:52:00, 308, kielce, janusz, janusz, roman, roman
+janusz, 2023-07-12 02:15:00, 322, kielce, ola, ola, janusz, roman, ala
+roman, 2024-08-14 16:23:00, 437, kielce, roman, ola, janusz
+roman, 2023-08-01 03:45:00, 197, kielce, roman, roman, roman
+ola, 2023-06-19 00:18:00, 79, warszawa, ola, ola, ola
+ola, 2024-06-12 02:55:00, 43, warszawa, roman, janusz, ala
+ala, 2023-05-03 06:44:00, 495, warszawa, roman, ala
+ola, 2024-05-03 00:21:00, 421, warszawa, roman, ola, ala
+roman, 2024-12-20 08:46:00, 147, kielce, janusz, janusz, ala
+janusz, 2022-12-09 10:58:00, 98, warszawa, ala, janusz, roman, ala, janusz
+janusz, 2023-12-20 23:17:00, 368, warszawa, ola, roman, ala, janusz
+ola, 2024-06-09 14:47:00, 231, kielce, ola, janusz
+roman, 2024-09-05 19:59:00, 235, warszawa, ala, ola
+janusz, 2024-11-28 20:19:00, 36, kielce, ola, ala
+roman, 2022-12-04 06:52:00, 84, krakow, janusz, roman, ola, janusz, roman
+ola, 2022-04-01 05:13:00, 509, krakow, ala, ala
+roman, 2023-11-23 12:32:00, 431, krakow, ola, ola, janusz, ola, janusz
+ala, 2023-04-01 22:19:00, 483, kielce, ola, ola
+ola, 2022-06-18 23:43:00, 264, warszawa, roman, ala, roman, roman
+ala, 2022-04-01 10:14:00, 41, warszawa, ola, janusz, roman, ola
+ala, 2024-09-12 10:51:00, 356, kielce, ala, ala, ola, roman
+janusz, 2024-07-11 13:18:00, 259, kielce, janusz, ola, ola
+ola, 2023-05-25 23:33:00, 386, kielce, ola, ala, roman, ola
+roman, 2023-10-03 16:52:00, 276, krakow, ola, janusz, roman, roman
+janusz, 2024-04-24 07:44:00, 39, kielce, roman, roman, ola, ala
+ala, 2022-04-10 14:29:00, 21, kielce, janusz, janusz
+janusz, 2023-09-28 11:13:00, 321, kielce, ola, roman, janusz, janusz
+janusz, 2022-10-28 21:57:00, 129, kielce, ala, janusz, janusz
+ala, 2022-04-25 07:59:00, 304, warszawa, janusz, roman, ola, ola, janusz
+janusz, 2022-10-10 00:20:00, 352, krakow, roman, ola, ala
+roman, 2023-12-27 23:48:00, 577, kielce, roman, roman, ola
+janusz, 2022-12-04 22:08:00, 48, warszawa, janusz, roman
+ala, 2022-06-07 08:45:00, 409, krakow, janusz, janusz, ola
+ala, 2024-11-06 17:35:00, 589, kielce, ola, ola
+janusz, 2023-11-04 05:18:00, 408, kielce, ala, janusz
+ala, 2022-08-08 06:14:00, 426, krakow, roman, janusz, janusz, janusz
+janusz, 2022-12-23 07:53:00, 476, krakow, janusz, roman, ala
+ola, 2024-05-02 21:34:00, 311, krakow, roman, janusz, roman
+roman, 2024-08-11 11:45:00, 275, kielce, roman, ola, ola, janusz, roman
+janusz, 2022-04-18 11:54:00, 112, kielce, ala, ala, roman
+ala, 2022-12-10 23:12:00, 115, kielce, janusz, janusz, ala, ola, ala
+janusz, 2022-11-18 21:01:00, 547, kielce, ola, roman, janusz, ola
+ala, 2022-09-06 17:23:00, 387, kielce, roman, ola, janusz
+janusz, 2024-05-09 03:34:00, 202, krakow, janusz, roman, janusz
+janusz, 2023-10-19 10:55:00, 64, warszawa, roman, ala, janusz, roman, roman
+ala, 2022-08-18 16:45:00, 16, warszawa, janusz, roman, ola, roman
+ola, 2024-11-21 22:27:00, 181, kielce, ala, ala, janusz, ola
+roman, 2022-07-15 22:35:00, 460, krakow, roman, ola, janusz, roman, ala
+janusz, 2024-06-01 02:28:00, 46, kielce, janusz, janusz, janusz, ala
+roman, 2022-05-24 14:41:00, 393, krakow, janusz, janusz, ola, ola, janusz
+roman, 2024-10-07 21:00:00, 285, warszawa, ola, ala, janusz, roman, ola
+roman, 2023-11-24 21:03:00, 328, kielce, ala, ala, janusz, ola, ala
+roman, 2023-11-02 02:33:00, 472, kielce, roman, roman, ala, ala, ola
+janusz, 2024-10-19 14:12:00, 447, kielce, ala, roman, ola, ala
+janusz, 2023-08-08 01:29:00, 279, warszawa, janusz, roman
+janusz, 2022-05-13 07:55:00, 314, krakow, ala, roman
+ala, 2022-05-05 18:26:00, 132, krakow, ola, ola, janusz, janusz
+janusz, 2023-11-09 03:04:00, 590, warszawa, ola, roman, ala, janusz, roman
+janusz, 2024-05-26 03:13:00, 539, warszawa, ola, janusz
+ala, 2023-12-04 13:08:00, 223, warszawa, ala, ola, ala
+ola, 2024-04-28 20:34:00, 325, kielce, roman, janusz, roman, ola, ala
+ola, 2023-06-08 02:49:00, 520, warszawa, janusz, ala, ala
+ala, 2022-09-10 12:00:00, 60, krakow, roman, ola, ola
+ala, 2024-09-12 12:24:00, 509, krakow, ala, janusz, roman, ala, ala
+roman, 2023-10-26 06:50:00, 61, kielce, ola, roman
+ala, 2023-09-10 04:08:00, 501, krakow, roman, ola, ala, janusz
+roman, 2022-04-19 22:18:00, 25, kielce, roman, ola, ola, roman
+janusz, 2022-06-10 15:29:00, 458, warszawa, janusz, ola, roman, ola
+janusz, 2023-10-13 18:42:00, 588, krakow, janusz, ola
+ala, 2022-11-26 08:44:00, 255, krakow, ola, janusz, ola
+janusz, 2022-12-27 09:13:00, 75, warszawa, roman, janusz, ola, roman, janusz
+ala, 2023-10-16 02:44:00, 537, warszawa, janusz, roman, roman
+ala, 2024-06-02 13:25:00, 459, warszawa, ola, roman
+roman, 2022-10-18 09:19:00, 364, warszawa, roman, roman, roman
+roman, 2024-05-24 16:39:00, 41, krakow, janusz, roman
+janusz, 2022-04-23 18:15:00, 147, warszawa, ala, roman, ola
+janusz, 2024-05-18 07:06:00, 467, kielce, roman, ola, janusz, ola
+roman, 2022-06-26 07:27:00, 117, warszawa, janusz, ala, roman, roman, roman
+ala, 2022-08-13 15:28:00, 191, kielce, ala, ala, ola
+ala, 2023-07-27 06:07:00, 518, krakow, janusz, ola, ola, roman, ala
+ala, 2022-10-14 04:56:00, 156, krakow, ola, roman, janusz, roman
+ala, 2022-09-22 14:25:00, 565, krakow, janusz, ala, ala, janusz
+janusz, 2022-09-16 10:31:00, 459, warszawa, ala, roman, janusz, ala, roman
+ola, 2024-08-20 02:20:00, 578, warszawa, ola, ala
+ola, 2024-07-06 05:11:00, 135, warszawa, ala, ola, ala, janusz, janusz
+roman, 2024-10-10 15:03:00, 304, kielce, janusz, roman, roman, ala
+roman, 2022-10-13 10:55:00, 27, warszawa, janusz, ola, janusz
+ala, 2022-06-07 11:17:00, 409, warszawa, ala, ola
+janusz, 2023-05-09 19:00:00, 550, kielce, janusz, janusz, ola, ala, ola
+janusz, 2023-07-27 15:00:00, 254, warszawa, ola, ala
+ala, 2022-10-23 11:33:00, 42, warszawa, ala, ala, roman, ola
+janusz, 2022-09-01 22:09:00, 523, warszawa, ola, ala, janusz, ola, roman
+janusz, 2022-06-17 18:02:00, 319, krakow, ola, janusz, ola, janusz
+janusz, 2024-09-02 18:08:00, 302, kielce, ala, roman, ola
+janusz, 2023-04-13 10:15:00, 529, warszawa, ala, janusz, roman
+janusz, 2023-08-15 00:49:00, 79, krakow, roman, janusz, ala, roman
+roman, 2024-12-08 13:55:00, 367, krakow, ala, roman, ala, janusz
+ola, 2024-12-13 20:06:00, 283, krakow, ala, ala, janusz, janusz
+roman, 2023-04-24 19:43:00, 16, warszawa, ola, ala, janusz, roman, janusz
+roman, 2022-07-24 18:04:00, 340, warszawa, ala, ala, janusz, ola
+ala, 2024-08-23 18:41:00, 366, warszawa, janusz, roman
+ala, 2022-07-05 18:54:00, 396, warszawa, janusz, ola, janusz, ala, ala
+roman, 2023-07-11 16:06:00, 378, krakow, roman, janusz, ala, roman
+ola, 2024-05-18 06:28:00, 259, krakow, ala, roman
+roman, 2022-12-01 08:19:00, 206, warszawa, ola, ola
+janusz, 2024-12-15 04:34:00, 178, krakow, janusz, ala, janusz, ala
+ala, 2024-12-08 00:50:00, 369, krakow, janusz, janusz, janusz, ala, ala
+janusz, 2023-06-21 09:18:00, 377, warszawa, janusz, janusz, janusz
+ala, 2024-06-24 12:02:00, 236, warszawa, janusz, ola, janusz
+ola, 2024-05-05 19:09:00, 275, krakow, ola, roman, janusz, roman, roman
+ala, 2024-10-21 00:16:00, 411, warszawa, janusz, janusz, ala
+ola, 2022-11-06 09:40:00, 233, kielce, ala, janusz, ola, ala, janusz
+ola, 2022-07-07 12:15:00, 150, kielce, ala, roman
+janusz, 2023-07-10 03:31:00, 583, warszawa, ala, ala
+roman, 2022-11-06 04:27:00, 390, warszawa, roman, roman
+ola, 2023-04-28 06:13:00, 397, kielce, ola, roman, roman
+janusz, 2024-07-24 10:14:00, 307, warszawa, janusz, roman, ala, roman, ala
+ola, 2022-08-02 13:08:00, 484, krakow, ala, ola, ola, roman, ola
+roman, 2024-06-02 06:05:00, 407, kielce, ala, ola
+ola, 2023-07-21 17:01:00, 570, kielce, janusz, roman, roman
+ola, 2024-11-06 00:51:00, 36, kielce, ala, ola, roman
+ola, 2022-07-27 17:06:00, 211, krakow, ala, ala, ola, roman, janusz
+ala, 2024-10-26 02:42:00, 113, krakow, janusz, janusz, ala, ala
+janusz, 2023-12-27 06:23:00, 46, krakow, ala, ala, ola, roman
+roman, 2023-11-01 17:09:00, 38, warszawa, ola, janusz
+janusz, 2022-08-05 05:21:00, 356, krakow, ala, ala, ola, roman, roman
+roman, 2023-12-03 16:56:00, 167, warszawa, janusz, janusz, ola, ola
+janusz, 2022-08-25 11:16:00, 453, warszawa, ala, roman, roman, ala, janusz
+roman, 2022-04-16 18:17:00, 232, krakow, ala, janusz, janusz, roman, ala
+ola, 2023-11-15 08:02:00, 505, kielce, ala, janusz
+janusz, 2024-08-17 02:37:00, 508, krakow, janusz, janusz, janusz, janusz
+ala, 2023-05-28 01:12:00, 448, krakow, ala, roman
+roman, 2024-06-24 10:37:00, 328, kielce, janusz, roman, ola
+roman, 2023-06-27 07:33:00, 13, warszawa, ala, roman, janusz
+ola, 2024-11-06 19:55:00, 380, kielce, janusz, ala
+ala, 2024-05-21 08:09:00, 443, krakow, roman, janusz, ala
+ala, 2024-11-26 21:28:00, 545, kielce, janusz, ola, janusz, ala
+roman, 2022-06-06 04:12:00, 509, warszawa, ola, ala, ala, janusz
+janusz, 2023-12-14 21:20:00, 326, kielce, roman, janusz, roman, ala, roman
+ala, 2023-11-10 18:14:00, 401, warszawa, ala, ala
+roman, 2023-07-09 22:57:00, 348, krakow, ala, roman, ola, ala, ala
+ala, 2023-05-08 18:46:00, 107, warszawa, janusz, ala, ola
+roman, 2023-10-15 02:28:00, 423, krakow, janusz, ala, ala, ala
+ola, 2023-08-25 08:11:00, 594, krakow, janusz, roman, ola, ola, ola
+ola, 2024-04-12 04:17:00, 38, warszawa, ola, janusz
+roman, 2023-04-06 03:05:00, 486, kielce, janusz, janusz, ola, janusz
+janusz, 2023-10-27 01:25:00, 478, krakow, ala, janusz, ala, janusz, janusz
+ala, 2023-04-07 09:34:00, 506, kielce, ola, ala, ola
+janusz, 2024-07-24 23:56:00, 275, krakow, ala, ola, ala
+ola, 2023-07-15 21:38:00, 247, warszawa, janusz, ala, roman, ala, janusz
+roman, 2023-06-27 14:26:00, 254, warszawa, ola, janusz
+roman, 2024-04-17 07:41:00, 482, warszawa, janusz, ala, ola, roman
+ola, 2023-12-10 02:02:00, 424, warszawa, janusz, ola
+janusz, 2022-12-10 02:18:00, 118, kielce, roman, ola, ala, ala, ala
+janusz, 2023-04-17 07:32:00, 85, kielce, janusz, ala, janusz, ala
+janusz, 2022-05-05 05:31:00, 505, warszawa, janusz, ala, ola, roman, ola
+janusz, 2023-04-14 19:03:00, 218, krakow, ola, roman, janusz, ola
+janusz, 2023-10-28 21:46:00, 570, warszawa, ola, janusz
+roman, 2022-12-21 17:49:00, 457, warszawa, ola, ola, janusz
+ola, 2022-08-16 14:43:00, 118, kielce, ala, ala, roman, janusz
+roman, 2023-06-23 18:43:00, 213, warszawa, ala, ala, ola, ala
+janusz, 2023-10-13 19:36:00, 394, warszawa, janusz, janusz
+ola, 2024-05-14 16:32:00, 556, warszawa, ola, ola, janusz
+ola, 2024-11-14 12:49:00, 38, kielce, ala, ola
+janusz, 2023-04-04 01:02:00, 579, krakow, roman, ala, janusz
+roman, 2022-10-10 23:27:00, 539, warszawa, roman, ola, roman
+ala, 2022-11-21 19:50:00, 472, krakow, roman, janusz, ola, ala, roman
+roman, 2022-10-22 04:08:00, 470, krakow, ala, janusz
+ola, 2023-07-12 07:17:00, 275, krakow, roman, roman, ola, roman
+janusz, 2023-08-14 15:07:00, 306, krakow, ala, ola, janusz, janusz, ala
+ala, 2022-10-06 01:27:00, 285, krakow, ala, janusz
+janusz, 2022-06-21 09:58:00, 321, kielce, ola, ola, janusz, ola, ola
+roman, 2024-06-15 22:16:00, 322, warszawa, ala, roman, ala, roman, ola
+roman, 2022-09-07 19:05:00, 365, kielce, roman, roman, ala, roman, roman
+ola, 2022-12-13 16:59:00, 144, warszawa, janusz, roman, roman, ola, ala
+ala, 2023-04-07 22:47:00, 174, kielce, ala, roman
+ola, 2023-11-02 16:54:00, 575, warszawa, ola, janusz, roman, ala
+janusz, 2024-10-11 04:40:00, 198, krakow, roman, roman
+roman, 2023-07-11 18:14:00, 231, kielce, janusz, roman, roman
+ola, 2023-09-22 04:23:00, 33, krakow, ala, janusz
+roman, 2022-06-07 13:42:00, 291, kielce, roman, ala, ala, janusz
+ola, 2022-11-10 11:15:00, 547, kielce, roman, ola, ola, ala
+ola, 2023-08-25 03:57:00, 251, kielce, ola, ala, roman
+ola, 2023-08-08 21:34:00, 449, warszawa, ola, janusz, roman, ola, ola
+ola, 2023-10-28 14:15:00, 519, krakow, ala, janusz, roman, ala
+ala, 2022-04-07 22:28:00, 222, warszawa, ala, roman, roman
+roman, 2023-10-12 20:09:00, 99, krakow, janusz, ala, roman
+janusz, 2024-05-08 15:44:00, 363, warszawa, ola, janusz, janusz
+ola, 2023-07-12 05:59:00, 597, warszawa, ola, ola, ala, ala
+janusz, 2024-09-03 22:08:00, 84, kielce, ola, janusz, roman, ala, roman
+janusz, 2024-09-17 16:59:00, 124, warszawa, ala, ola, janusz, janusz
+janusz, 2022-07-10 07:07:00, 332, warszawa, janusz, ala
+janusz, 2023-08-09 02:57:00, 523, warszawa, ala, janusz, janusz
+ala, 2024-05-06 17:55:00, 219, krakow, roman, ala, janusz, roman
+janusz, 2024-06-27 16:15:00, 155, krakow, roman, roman, ola, ola
+roman, 2022-07-27 06:00:00, 126, kielce, ola, roman, ala, roman, ola
+janusz, 2022-08-14 16:31:00, 374, warszawa, roman, ala
+janusz, 2024-05-23 19:55:00, 227, warszawa, ola, ala, roman, ala
+roman, 2023-07-28 13:55:00, 491, krakow, ala, roman, roman
+roman, 2022-05-17 19:07:00, 242, krakow, janusz, ola
+janusz, 2022-09-16 05:05:00, 244, warszawa, ola, ala, ola, ala
+roman, 2024-12-20 23:10:00, 433, krakow, roman, ala, janusz, ola
+ola, 2022-12-09 12:36:00, 186, kielce, janusz, janusz, ala, janusz, ala
+janusz, 2024-04-28 04:01:00, 325, krakow, janusz, janusz, ola
+roman, 2022-07-26 11:59:00, 55, warszawa, roman, ala, janusz, janusz, ola
+ola, 2024-07-23 00:34:00, 226, warszawa, roman, roman, janusz
+ala, 2023-12-02 20:00:00, 418, warszawa, ola, janusz
+ola, 2022-10-10 04:50:00, 560, warszawa, ola, ola, janusz
+ala, 2024-12-12 11:43:00, 183, warszawa, roman, ala
+janusz, 2024-08-07 18:14:00, 460, krakow, ola, janusz, roman, ala
+ala, 2024-12-06 04:55:00, 359, kielce, janusz, ola, ala, roman, ola
+ala, 2022-12-19 02:56:00, 330, kielce, ala, ola, ala
+roman, 2023-07-04 10:52:00, 388, kielce, ala, ala, ala, ola, roman
+roman, 2023-06-11 23:56:00, 587, kielce, roman, ala
+ola, 2024-12-05 19:03:00, 249, krakow, ola, ala, ala
+ala, 2022-04-09 03:54:00, 498, krakow, roman, janusz, janusz, ala, janusz
+janusz, 2024-08-18 22:28:00, 16, warszawa, janusz, roman, ala, janusz
+janusz, 2024-11-13 06:58:00, 62, krakow, roman, ola, ala, janusz
+ola, 2024-04-27 18:25:00, 177, krakow, roman, roman, roman, roman, janusz
+roman, 2024-10-13 20:53:00, 109, krakow, roman, janusz
+janusz, 2024-12-13 14:27:00, 473, kielce, ola, janusz, ola
+ala, 2022-12-07 13:26:00, 559, kielce, ala, ola
+roman, 2022-09-13 00:39:00, 483, warszawa, roman, janusz, roman
+roman, 2024-05-09 05:30:00, 520, warszawa, ala, roman, janusz, janusz, ola
+ola, 2023-04-20 09:37:00, 302, krakow, roman, roman, ala, ala, ola
+roman, 2023-11-28 03:48:00, 394, warszawa, janusz, ola, ola, ala
+ala, 2024-04-05 09:28:00, 188, kielce, ola, ala, ola
+ala, 2022-05-05 13:48:00, 403, warszawa, ala, janusz, ola, ala, janusz
+janusz, 2023-05-05 09:12:00, 462, kielce, roman, ala
+roman, 2023-07-02 03:39:00, 323, warszawa, janusz, roman, roman, ala, roman
+ala, 2022-04-27 22:00:00, 100, krakow, ola, ola, janusz, roman, roman
+roman, 2023-09-06 05:27:00, 563, kielce, roman, janusz, roman, ola, ola
+ola, 2024-04-16 19:13:00, 561, warszawa, ola, ala
+janusz, 2024-07-07 15:55:00, 101, krakow, ola, ola, roman, janusz, ala
+janusz, 2024-05-13 08:48:00, 18, kielce, janusz, ala, ola
+ola, 2023-04-10 01:29:00, 397, kielce, roman, roman, ola, ala, janusz
+roman, 2024-04-18 17:54:00, 454, warszawa, ola, roman
+ola, 2022-04-21 12:57:00, 66, krakow, roman, janusz, ala
+ala, 2023-06-21 01:42:00, 72, kielce, ala, ola, ala, janusz
+janusz, 2023-07-10 23:25:00, 437, krakow, roman, janusz
+ala, 2024-10-06 19:26:00, 542, kielce, roman, ola, ala, roman
+roman, 2023-10-08 12:43:00, 326, krakow, janusz, ola, janusz
+ala, 2024-08-19 00:07:00, 422, krakow, janusz, janusz, janusz, ala, ala
+roman, 2023-11-22 15:34:00, 185, krakow, roman, ala, janusz
+ola, 2022-12-16 11:38:00, 89, krakow, ala, ola, ola, ola, ala
+ala, 2022-09-24 07:39:00, 277, warszawa, ola, ala, ola, roman
+roman, 2022-11-11 16:56:00, 363, kielce, ala, ala, roman
+ola, 2024-05-06 09:43:00, 341, warszawa, janusz, ola, ala
+ola, 2024-05-08 12:10:00, 446, kielce, roman, roman, roman, ala
+roman, 2024-09-20 03:20:00, 182, warszawa, roman, roman, ala, ola, roman
+roman, 2023-05-20 11:49:00, 329, kielce, roman, roman, roman, ala
+roman, 2024-12-09 09:19:00, 105, warszawa, ala, ola, janusz, ola, ola
+roman, 2022-05-20 12:05:00, 309, kielce, ala, ala, ala, ala, janusz
+ala, 2024-09-10 19:15:00, 400, kielce, ala, ola
+roman, 2022-07-08 04:32:00, 128, warszawa, ala, roman, ola, roman, ola
+roman, 2022-07-03 05:19:00, 460, kielce, janusz, ola, janusz, ala
+ola, 2022-09-25 05:13:00, 166, krakow, ala, ola
+roman, 2023-12-27 08:17:00, 278, krakow, ola, janusz
+ala, 2024-06-06 06:38:00, 408, warszawa, ala, janusz, ala, janusz, ola
+janusz, 2022-04-08 07:26:00, 482, warszawa, ola, ala, janusz
+janusz, 2024-09-15 17:57:00, 500, kielce, ala, ola
+janusz, 2024-07-09 08:07:00, 563, kielce, ola, roman, ala, ola
+roman, 2024-06-20 04:56:00, 500, kielce, janusz, ala, roman, janusz, ola
+janusz, 2022-08-21 23:15:00, 206, warszawa, roman, janusz
+janusz, 2022-07-24 05:48:00, 23, krakow, ola, roman
+janusz, 2023-08-10 18:12:00, 344, kielce, janusz, ala, ala, roman
+ola, 2024-09-01 12:08:00, 513, kielce, ola, ola, janusz, roman, roman
+roman, 2023-07-02 21:39:00, 263, warszawa, janusz, ola, ala, ala
+ola, 2022-11-15 13:10:00, 274, krakow, ala, roman, ala, roman, ala
+ala, 2022-11-19 17:18:00, 562, kielce, ola, ala, ola, roman
+janusz, 2023-05-11 03:22:00, 69, warszawa, ala, janusz, roman
+janusz, 2023-11-17 02:16:00, 502, kielce, roman, roman, ola
+roman, 2023-05-15 09:32:00, 240, krakow, janusz, roman, ola, ola
+ala, 2022-07-28 16:07:00, 305, krakow, ola, ala, ola, ala
+roman, 2024-08-04 18:16:00, 90, krakow, roman, janusz
+janusz, 2023-05-04 11:16:00, 463, warszawa, roman, ola, roman
+ola, 2023-05-27 00:58:00, 459, krakow, ola, ala, janusz, janusz
+ola, 2024-09-25 16:31:00, 77, krakow, ala, roman, roman, roman, ala
+janusz, 2022-10-11 16:40:00, 255, warszawa, roman, ola, ala, ala, janusz
+janusz, 2022-09-22 09:21:00, 229, krakow, ala, ola
+ola, 2023-11-03 07:05:00, 169, krakow, janusz, janusz, janusz, janusz, ala
+ola, 2023-07-22 12:45:00, 300, warszawa, roman, roman, ala
+ola, 2023-09-26 13:25:00, 7, warszawa, janusz, roman, ala, janusz
+ola, 2024-04-12 23:17:00, 51, krakow, ola, ola, janusz, ala
+ola, 2024-10-09 14:32:00, 137, krakow, janusz, roman, janusz, janusz, ala
+roman, 2022-09-28 13:08:00, 302, krakow, roman, roman, janusz, ola, ola
+janusz, 2024-04-04 16:28:00, 488, kielce, janusz, roman
+janusz, 2024-05-02 13:27:00, 319, warszawa, roman, ola
+ala, 2022-07-26 12:40:00, 349, krakow, ola, janusz, ola
+janusz, 2022-09-08 11:36:00, 7, krakow, ala, roman, roman, roman
+roman, 2023-06-25 14:41:00, 502, warszawa, ola, roman, roman, ola, ala
+janusz, 2022-07-20 01:00:00, 43, warszawa, janusz, ola, ola, ala
+ola, 2024-12-01 02:14:00, 18, krakow, ola, ala, janusz, ola, ola
+roman, 2024-10-09 03:07:00, 402, kielce, ola, janusz, ala, janusz
+ola, 2023-08-02 06:47:00, 460, kielce, janusz, ola, ola
+ola, 2023-07-12 08:21:00, 295, krakow, janusz, roman, roman
+janusz, 2022-08-04 18:27:00, 115, warszawa, roman, ala, ola, ala, roman
+ola, 2023-07-17 19:20:00, 532, warszawa, ala, ola, roman, ala
+ola, 2024-09-26 08:49:00, 120, warszawa, ala, roman, ala, janusz, ala
+ola, 2023-06-13 04:29:00, 530, kielce, roman, ola
+ola, 2022-07-24 15:09:00, 139, krakow, ala, roman, janusz, ola, roman
+janusz, 2024-05-14 02:23:00, 557, warszawa, roman, janusz, ola, roman
+ola, 2023-12-27 15:40:00, 238, krakow, janusz, roman, roman, ola, ola
+roman, 2023-12-14 23:37:00, 514, krakow, ola, ola, ola, ala, janusz
+ola, 2022-05-02 03:26:00, 204, krakow, ola, roman, ola, janusz
+ala, 2023-05-27 20:01:00, 311, krakow, janusz, janusz, janusz, janusz, roman
+janusz, 2023-12-15 05:05:00, 9, warszawa, ola, janusz, roman
+janusz, 2023-11-16 10:50:00, 80, warszawa, roman, ola, janusz, ala, ala
+roman, 2022-07-16 08:23:00, 147, warszawa, ala, ala
+ola, 2023-06-14 17:17:00, 500, krakow, janusz, janusz
+ala, 2022-07-10 03:40:00, 402, krakow, janusz, ola, roman
+ala, 2022-04-16 07:29:00, 31, warszawa, janusz, roman, roman
+ala, 2022-08-09 21:24:00, 169, warszawa, ala, roman, ala
+ala, 2024-10-25 09:57:00, 241, krakow, roman, janusz, ala, ala
+roman, 2022-04-27 06:28:00, 48, warszawa, ola, roman, janusz, roman
+roman, 2022-08-24 00:33:00, 594, warszawa, ola, roman, roman, janusz
+ola, 2023-12-24 13:41:00, 130, warszawa, roman, ala, ala, ala, ala
+roman, 2023-07-07 09:12:00, 493, kielce, ala, ola
+roman, 2024-12-11 14:54:00, 83, warszawa, ala, ola
+ala, 2024-06-20 22:01:00, 590, warszawa, ala, ala, ola
+janusz, 2023-07-19 23:59:00, 232, warszawa, ola, roman, roman, janusz
+ala, 2024-04-06 14:34:00, 284, warszawa, ola, ola, roman, ola, ola
+ala, 2022-06-14 11:06:00, 341, krakow, janusz, ola, roman, janusz
+ola, 2022-05-17 13:08:00, 599, krakow, janusz, janusz, ala, janusz
+janusz, 2022-07-16 06:03:00, 437, warszawa, ola, ala
+ala, 2023-07-13 08:43:00, 74, krakow, ola, roman, ola
+roman, 2023-06-16 14:01:00, 192, kielce, ala, roman, ala
+ola, 2024-04-05 09:01:00, 581, kielce, ola, janusz, roman
+ola, 2024-08-28 09:43:00, 500, krakow, roman, ola, roman, roman, ala
+janusz, 2022-12-13 23:10:00, 497, krakow, roman, janusz, roman, ola
+roman, 2024-06-14 04:57:00, 257, warszawa, ala, janusz, janusz, janusz
+roman, 2023-07-26 07:57:00, 440, kielce, ola, janusz, roman, roman
+ala, 2024-09-14 14:47:00, 286, warszawa, ala, janusz, ola
+ola, 2022-05-04 15:09:00, 232, krakow, roman, janusz, ala, ola
+ola, 2024-09-20 06:42:00, 228, kielce, ola, janusz, ala
+ala, 2023-08-01 07:23:00, 238, krakow, roman, roman, ala
+ala, 2023-05-10 06:04:00, 16, warszawa, janusz, ala, roman
+ala, 2023-11-12 11:54:00, 13, warszawa, janusz, janusz, ala, ola
+roman, 2023-08-06 08:39:00, 486, warszawa, ola, janusz, ola, roman, ala
+janusz, 2023-04-22 22:31:00, 235, warszawa, roman, ala, ola, ala, ala
+ola, 2022-11-11 22:02:00, 57, warszawa, ola, ola, ala, ala
+janusz, 2024-08-18 06:27:00, 333, warszawa, janusz, ola, janusz, janusz
+roman, 2023-10-09 05:39:00, 336, kielce, roman, ala, ola, ola
+ola, 2023-05-28 16:17:00, 384, krakow, ala, ala, ola, ola, roman
+roman, 2022-04-10 03:27:00, 514, kielce, roman, janusz, ala, roman
+ala, 2022-07-15 13:49:00, 375, krakow, ola, ola, janusz, ola
+janusz, 2022-05-06 01:51:00, 524, warszawa, ola, ala, ola, roman, ala
+ala, 2023-12-10 20:05:00, 544, krakow, roman, janusz, roman, roman, ala
+roman, 2023-04-11 16:29:00, 416, krakow, ala, roman
+roman, 2024-12-22 19:07:00, 511, kielce, janusz, roman, roman
+ola, 2023-04-12 03:23:00, 86, warszawa, ala, roman, ala, ola
+roman, 2023-10-11 13:53:00, 203, kielce, ala, janusz, ola, ola, ola
+ola, 2024-07-09 18:24:00, 153, kielce, roman, roman, ala, janusz, roman
+ola, 2024-08-12 14:47:00, 93, kielce, ala, ala, ola, ola, ola
+ala, 2022-08-21 06:28:00, 467, kielce, ola, janusz, ola, janusz
+roman, 2022-04-25 17:30:00, 136, kielce, janusz, janusz, janusz
+janusz, 2023-04-01 21:31:00, 303, warszawa, janusz, janusz, janusz, ola, ala
+ola, 2022-05-03 21:31:00, 327, kielce, janusz, ala
+ola, 2022-04-09 16:05:00, 10, krakow, ola, ala, roman, janusz, ala
+ola, 2023-05-12 04:01:00, 194, krakow, ola, janusz, ola, roman
+janusz, 2024-06-17 06:12:00, 353, warszawa, janusz, janusz, janusz, roman
+janusz, 2023-06-07 23:59:00, 421, kielce, roman, ala, ala, roman
+janusz, 2024-09-15 20:10:00, 453, krakow, ola, ala, roman
+roman, 2023-11-22 18:19:00, 212, warszawa, janusz, roman, janusz, janusz, ala
+janusz, 2023-06-26 19:59:00, 304, kielce, roman, ala, janusz, ala
+roman, 2022-11-08 04:13:00, 410, warszawa, ola, ola
+ala, 2023-11-02 02:01:00, 278, kielce, ala, ala
+roman, 2022-10-07 08:25:00, 583, kielce, ola, roman, janusz
+roman, 2024-10-14 08:25:00, 573, kielce, ola, ola, ola
+ola, 2023-09-06 09:26:00, 99, kielce, janusz, roman, ola, ola, roman
+ola, 2024-11-19 10:32:00, 142, warszawa, roman, ola, janusz, ola
+roman, 2023-10-24 04:18:00, 594, kielce, janusz, ala, janusz, ala
+roman, 2024-11-17 13:38:00, 587, kielce, roman, ala
+roman, 2023-05-02 13:19:00, 495, krakow, janusz, janusz
+janusz, 2023-12-28 14:36:00, 216, warszawa, ola, ala, roman
+ola, 2023-06-23 04:42:00, 533, krakow, roman, roman, ala, ola
+roman, 2024-10-02 05:00:00, 313, kielce, roman, ola, roman, ala, ala
+janusz, 2024-08-04 00:41:00, 570, krakow, janusz, ola, roman, ola, ola
+ola, 2023-06-25 16:41:00, 540, warszawa, ola, ola, roman, ala
+ola, 2024-05-20 02:39:00, 89, warszawa, ola, ala, ala, ola, ola
+janusz, 2024-06-26 14:11:00, 448, kielce, janusz, janusz
+janusz, 2023-08-11 10:34:00, 327, kielce, ola, ala, ala
+roman, 2023-09-06 05:14:00, 407, krakow, ola, ala, ola
+roman, 2024-07-25 09:04:00, 87, kielce, ola, janusz, janusz
+ola, 2023-09-22 08:54:00, 503, krakow, roman, ala, janusz, ala
+janusz, 2023-10-03 21:26:00, 256, kielce, roman, ala
+roman, 2024-07-24 15:20:00, 185, kielce, ala, janusz, ola, ola
+janusz, 2022-10-20 05:50:00, 449, warszawa, ola, roman
+ola, 2024-11-03 20:54:00, 312, krakow, ala, roman
+roman, 2024-10-27 10:13:00, 285, kielce, roman, ala
+janusz, 2022-04-20 21:19:00, 29, krakow, ola, janusz, ola, janusz, ala
+ola, 2024-04-27 21:28:00, 546, kielce, janusz, ola, ola, ala, ola
+ala, 2022-05-15 20:37:00, 419, krakow, ala, roman, roman
+roman, 2023-11-12 00:17:00, 454, kielce, ala, ola, roman
+janusz, 2023-11-28 06:42:00, 54, krakow, ola, janusz
+janusz, 2024-10-06 14:59:00, 395, krakow, roman, roman, roman, ola, janusz
+ola, 2024-04-09 05:32:00, 541, kielce, ola, janusz, roman, roman, ola
+ola, 2023-07-18 06:57:00, 466, warszawa, janusz, ala
+janusz, 2023-09-02 18:03:00, 164, kielce, janusz, janusz
+janusz, 2023-09-22 00:59:00, 488, kielce, ala, janusz, ola
+roman, 2022-10-25 07:17:00, 564, warszawa, ola, janusz
+ola, 2023-12-01 23:03:00, 94, krakow, janusz, ala, janusz, janusz
+ola, 2024-06-08 03:59:00, 93, warszawa, ola, roman
+ola, 2023-09-03 15:05:00, 544, krakow, roman, janusz, ala
+janusz, 2024-04-08 17:20:00, 71, warszawa, janusz, roman
+janusz, 2022-11-27 07:40:00, 305, warszawa, roman, roman, roman, roman, ala
+janusz, 2023-10-15 06:37:00, 310, kielce, ola, roman, ola
+janusz, 2022-11-21 02:25:00, 31, krakow, ala, janusz, ola
+ola, 2022-05-15 04:16:00, 354, krakow, ola, ola, ola, janusz
+roman, 2023-12-02 15:42:00, 92, kielce, janusz, roman
+janusz, 2024-11-09 02:47:00, 587, kielce, roman, ala
+janusz, 2024-11-22 20:56:00, 207, krakow, ala, ola, ola, roman
+janusz, 2023-06-05 01:59:00, 33, krakow, ola, ola, roman, janusz, ala
+roman, 2023-04-15 01:25:00, 191, krakow, roman, ala, janusz, roman
+ola, 2023-11-17 04:45:00, 16, kielce, roman, janusz, ala, ola
+ola, 2023-10-02 18:52:00, 486, kielce, janusz, roman, janusz, roman
+ala, 2023-08-04 09:53:00, 116, warszawa, janusz, roman
+janusz, 2023-10-03 13:11:00, 392, krakow, roman, ala, janusz, roman, janusz
+janusz, 2023-12-12 16:07:00, 204, krakow, ola, ala, ala, janusz, ola
+ala, 2022-09-07 23:28:00, 78, warszawa, janusz, roman, roman, ola, roman
+ala, 2022-09-10 17:33:00, 135, krakow, janusz, ala, roman, janusz, janusz
+janusz, 2023-11-12 19:12:00, 498, krakow, roman, ala, roman, janusz
+roman, 2022-06-18 16:59:00, 88, warszawa, ola, ola, ala, janusz, roman
+janusz, 2023-04-04 14:58:00, 568, krakow, ola, roman, janusz, ala
+janusz, 2024-10-11 17:14:00, 263, warszawa, roman, janusz, ola
+ola, 2022-10-07 11:50:00, 535, warszawa, janusz, janusz, janusz, roman
+ala, 2022-05-11 23:27:00, 362, warszawa, ola, janusz, janusz, ola
+janusz, 2024-08-21 17:39:00, 235, krakow, roman, ola, ola
+ala, 2022-08-01 14:57:00, 18, warszawa, ala, ola, janusz, roman
+ola, 2022-12-08 18:00:00, 249, krakow, janusz, ola, ola
